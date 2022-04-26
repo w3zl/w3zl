@@ -1,13 +1,2 @@
 # Hi
-
-- 👋 Hi, I’m @W1EZL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 [<img align="centor" alt="hackthebox" src="https://www.hackthebox.com/badge/image/485216" />](https://www.hackthebox.com/users/485216)
-<!---
-W1EZL/W1EZL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
