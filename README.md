@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gideonkamioka@gmail.com**
 
-- 📄 Learn about my certifications [https://www.credly.com/users/gideon-kamioka/badges](https://www.credly.com/users/gideon-kamioka/badges)
+- 📄 Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges)
 
 - ⚡ Fun fact **\<funny joke goes here\>**
 
