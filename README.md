@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
 
-- 🌱 I’m currently learning **<I'll put something here late I swear>**
+- 🌱 I’m currently learning **\<I'll put something here later I swear\>**
 
 - 📫 How to reach me **gideonkamioka@gmail.com**
 
 - 📄 Learn about my certifications [https://www.credly.com/users/gideon-kamioka/badges](https://www.credly.com/users/gideon-kamioka/badges)
 
-- ⚡ Fun fact **<funny joke goes here>**
+- ⚡ Fun fact **\<funny joke goes here\>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
