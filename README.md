@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
 
-- 🌱 I’m currently learning **\<I'll put something here later I swear\>**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **gideonkamioka@gmail.com**
 
