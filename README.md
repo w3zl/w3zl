@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm W1EZL</h1>
-<h3 align="center">A security enthusiast from Japan</h3>
+<h3 align="center">A cyber security enthusiast from Japan</h3>
 
 - 🔭 I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
 
