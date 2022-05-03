@@ -1,13 +1,13 @@
 <h1 align="center">Hi I'm W1EZL</h1>
 <h3 align="center">A cybersecurity enthusiast from Japan</h3>
 
-- 🔭 I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
+- :dart: I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
 
-- 🌱 I’m currently learning **ReactJs**
+- :pencil2: I’m currently learning **ReactJs**
 
-- 📫 How to reach me **gideonkamioka@gmail.com**
+- :envelope: How to reach me **gideonkamioka@gmail.com**
 
-- 📄 Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges)
+- :trophy: Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
