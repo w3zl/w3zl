@@ -7,7 +7,7 @@
 
 - :envelope: How to reach me **gideonkamioka@gmail.com**
 
-- :trophy: Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges)
+<!-- - :trophy: Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
