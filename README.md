@@ -9,8 +9,6 @@
 
 - 📄 Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges)
 
-- ⚡ Fun fact **\<funny joke goes here\>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/w1ezl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w1ezl" height="30" width="40" /></a>
