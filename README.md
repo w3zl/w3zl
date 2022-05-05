@@ -5,7 +5,7 @@
 
 - :pencil2: I’m currently learning **ReactJs**
 
-- :envelope: How to reach me **gideonkamioka@gmail.com**
+- :envelope: How to reach me **w1ezl@pm.me**
 
 <!-- - :trophy: Learn about my [certifications](https://www.credly.com/users/gideon-kamioka/badges) -->
 
