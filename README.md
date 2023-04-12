@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm W1EZL</h1>
+<h1 align="center">Hi I'm w3zl</h1>
 <h3 align="center">A cybersecurity enthusiast from Japan</h3>
 
 - :dart: I’m currently working on my [OSWE](https://www.offensive-security.com/awae-oswe/)
